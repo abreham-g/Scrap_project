@@ -25,5 +25,6 @@ Stock Level
 cs
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd scrap_keepa
+   git clone https://github.com/abreham-g/Scrap_project.git
+   cd scrap_project/script
+   python main.py
